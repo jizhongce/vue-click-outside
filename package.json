@@ -1,0 +1,18 @@
+{
+  "name": "@jizhongce/vue-click-outside",
+  "version": "1.1.2",
+  "description": "Customized directives which can be used in vue to trigger some handler or function when click outside the element.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xunleif2e/vue-clickout.git"
+  },
+  "keywords": [
+    "ClickOutside"
+  ],
+  "author": "jizhongce",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
