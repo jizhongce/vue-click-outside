@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xunleif2e/vue-clickout.git"
+    "url": "https://github.com/jizhongce/vue-click-outside"
   },
   "keywords": [
     "ClickOutside"
