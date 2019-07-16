@@ -82,5 +82,4 @@ License
 ========================
 
 MIT
-Copyright (c) 2019 Zhongce Ji
 
